@@ -107,7 +107,7 @@ MIT License
 
 ## 👨‍💻 Author
 
-Your Name - [GitHub](https://github.com/YOUR_USERNAME)
+Muhammad Rabbani Syawal - [GitHub](https://github.com/rabbanisyawal7)
 
 ## 🤝 Contributing
 
@@ -115,4 +115,5 @@ Contributions welcome! Please open an issue first.
 
 ## 📧 Contact
 
-For questions: your.email@example.com
+For questions: rabbanisyawal7@gmail.com
+
